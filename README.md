@@ -18,6 +18,7 @@ BELOW IS THE U-Net ARCHITECTURE
 
 
 
+
  [ INPUT IMAGE ]                                                      [ OUTPUT MASK ]
   (256 x 256 x 3)                                                      (256 x 256 x 1)
         │                                                                     ▲
